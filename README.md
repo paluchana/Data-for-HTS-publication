@@ -1,4 +1,4 @@
-# Randomization of 96-well Deepwell Plates
+# Data for HTS publication
 
 ## Overview
 
