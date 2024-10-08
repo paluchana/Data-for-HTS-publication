@@ -8,3 +8,5 @@ This repository contains .csv files containing raw data of screening of selected
 
 
 The (a) can be found in the 'Data_ScreeningOnSaccharides.csv', and (b) 'Data_SceeningPresenceOfInhibitors.csv' data files.
+
+For more information, please contact the corresponding author.
