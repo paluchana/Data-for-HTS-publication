@@ -4,7 +4,9 @@ This repository contains .csv files with raw data from the screening of selected
 
 (a) on industrially relevant saccharides from waste streams and 2G and 3G feedstocks, 
 
-(b) in the presence of common fermentation inhibitors. 
+(b) in the presence of common fermentation inhibitors,
+
+(c) compared to its positive control.
 
 
 TData for (a) can be found in the 'Data_ScreeningOnSaccharides.csv' file, and for (b) in the 'Data_ScreeningPresenceOfInhibitors.csv' file.
